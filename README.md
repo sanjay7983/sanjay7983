@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sanjay815166@gmal.com**
 
-- 📄 Know about my experiences [file:///C:/Users/bhaskar/Downloads/sanjay%20kumar%20resume.pdf](file:///C:/Users/bhaskar/Downloads/sanjay%20kumar%20resume.pdf)
+- 📄 Know about my experiences (file:///C:/Users/bhaskar/Downloads/sanjay%20kumar%20resume.pdf)
 
 - ⚡ Fun fact **I am Funny😂**
 
