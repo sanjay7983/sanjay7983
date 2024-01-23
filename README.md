@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/sanjay7983/file-2/39bd04ac97fdd9fb0a0ca7d7e03ef293c6821ccb/Sanjay%20kumar.png)
+![logo](https://github.com/sanjay7983/sanjay7983/blob/main/Sanjay%20kumar.png)
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" all="conding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
